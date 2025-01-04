@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net461;netstandard2.0</TargetFrameworks>
+    <TargetFrameworks>net48;netstandard2.0</TargetFrameworks>
     <Authors>Takuya Takeuchi</Authors>
     <Copyright>© Takuya Takeuchi 2018-2022</Copyright>
     <Company />
